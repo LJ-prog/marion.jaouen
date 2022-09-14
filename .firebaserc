@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "website-marion-jaouen"
-  }
+    "default": "marion-jaouen",
+    "marion.jaouen": "marion-jaouen"
+  },
+  "targets": {},
+  "etags": {}
 }
