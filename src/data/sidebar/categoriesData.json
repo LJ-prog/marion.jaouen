@@ -1,0 +1,24 @@
+{
+    "categoriesData": [
+        {
+            "id": 1,
+            "title": "Wedding",
+            "link": "/blog"
+        },
+        {
+            "id": 2,
+            "title": "Anniversary",
+            "link": "/blog"
+        },
+        {
+            "id": 3,
+            "title": "Honeymoon",
+            "link": "/blog"
+        },
+        {
+            "id": 4,
+            "title": "Flowers",
+            "link": "/blog"
+        }
+    ]
+}

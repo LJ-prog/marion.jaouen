@@ -1,0 +1,22 @@
+{
+    "recentCommentsData": [
+        {
+            "id": 1,
+            "author": "Tommy Andersen",
+            "link": "/blog-single-post#comments",
+            "comment": "Lorem ipsum dolor sit amet, consectetur adipiscing elit…"
+        },
+        {
+            "id": 2,
+            "author": "Rosie Ford",
+            "link": "/blog-single-post#comments",
+            "comment": "Lorem ipsum dolor sit amet, consectetur adipiscing elit…"
+        },
+        {
+            "id": 3,
+            "author": "Arthur Hopin",
+            "link": "/blog-single-post#comments",
+            "comment": "Lorem ipsum dolor sit amet, consectetur adipiscing elit…"
+        }
+    ]
+}

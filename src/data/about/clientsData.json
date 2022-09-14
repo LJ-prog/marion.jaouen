@@ -1,0 +1,34 @@
+{
+    "clientsData": [
+        {
+            "id": 1,
+            "imgSrc": "assets/img/demo/28_img.png",
+            "name": "Balkan"
+        },
+        {
+            "id": 2,
+            "imgSrc": "assets/img/demo/29_img.png",
+            "name": "Adveits"
+        },
+        {
+            "id": 3,
+            "imgSrc": "assets/img/demo/30_img.png",
+            "name": "Swiger"
+        },
+        {
+            "id": 4,
+            "imgSrc": "assets/img/demo/31_img.png",
+            "name": "The mandala community"
+        },
+        {
+            "id": 5,
+            "imgSrc": "assets/img/demo/28_img.png",
+            "name": "Balkan"
+        },
+        {
+            "id": 6,
+            "imgSrc": "assets/img/demo/29_img.png",
+            "name": "Adveits"
+        }
+    ]
+}
